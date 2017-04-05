@@ -1,0 +1,16 @@
+ Volume in drive C is OS_Install
+ Volume Serial Number is ACB4-7772
+
+ Directory of C:\Users\praveen32\git_basics
+
+05/04/2017  08:35 PM    <DIR>          .
+05/04/2017  08:35 PM    <DIR>          ..
+05/04/2017  08:35 PM                 0 .gitignore
+05/04/2017  08:23 PM    <DIR>          db
+05/04/2017  11:46 AM                16 LICENSE.md
+05/04/2017  11:45 AM                16 README.md
+               3 File(s)             32 bytes
+               3 Dir(s)  62,185,902,080 bytes free
+
+# Ignore all SQLite databases
+db/*.sqlite3
